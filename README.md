@@ -63,10 +63,4 @@ matplotlib
 
 seaborn
 
-👩‍💻 Author
-Kotra Srimythri
-B.Tech CSE | Bhoj Reddy Engineering College for Women
-💡 Machine Learning | 💻 Python | 🌐 Web Dev
 
-⭐ Show Support
-If you found this useful, please ⭐ star the repo to support the project!
